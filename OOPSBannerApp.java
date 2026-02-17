@@ -6,13 +6,7 @@ This class demonstares a simple java application that displays the Object Orient
 
 public class OOPSBannerApp{
 	public static void main(String[] args){
-		//System.out.println("OOPS");
-		System.out.println("   ***    " + "   ***    " + "******   " + "   ***** ");
-		System.out.println(" **   **  " + " **   **  " + "**   **  " + " **      ");
-		System.out.println("**     ** " + "**     ** " + "**    ** " + "**       ");
-		System.out.println("**     ** " + "**     ** " + "**   **  " + "   ***** ");
-		System.out.println("**     ** " + "**     ** " + "******   " + "      ** ");
-		System.out.println(" **   **  " + " **   **  " + "**       " + " **   ** ");
-		System.out.println("   ***    " + "   ***    " + "**       " + "  *****  ");
+		System.out.println("OOPS");
+		
 	}
 }
